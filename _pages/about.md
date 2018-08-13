@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor at the <a href="http://www.physicsandastronomy.pitt.edu/">Department of Physics and Astronomy</a> of the <a href="http://www.pitt.edu/">University of Pittsburgh</a>. 
+I am an Associate Professor at the <a href="http://www.physicsandastronomy.pitt.edu/">Department of Physics and Astronomy</a> of the <a href="http://www.pitt.edu/">University of Pittsburgh</a>. 
 									<br><br>
 									Before coming to Pittsburgh in 2011, I held postdoctoral positions at the <a href="http://www.astro.tau.ac.il/">Department of Astrophysics</a> of <a href="http://www.telavivuniv.org/">Tel-Aviv University</a> and the <a href="http://www.weizmann.ac.il/home/universe/">Experimental Astrophysics Group</a> of the <a href="http://www.weizmann.ac.il/">Weizmann Institute of Science</a> in Israel; the <a href="http://www.astro.princeton.edu/">Department of Astrophysical Sciences</a> of <a href="http://www.princeton.edu/">Princeton University</a>, and a the <a href="http://www.physics.rutgers.edu/">Department of Physics and Astronomy</a> of <a href="http://www.rutgers.edu/">Rutgers, the State University of New Jersey</a>. 
 									<br><br>
