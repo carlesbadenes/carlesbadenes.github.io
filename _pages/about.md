@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor at the <a href="http://www.physicsandastronomy.pitt.edu/">Department of Physics and Astronomy</a> of the <a href="http://www.pitt.edu/">University of Pittsburgh</a>. I specialize in Stellar Astrophysics.
+Welcome to my web page! I am an Associate Professor at the <a href="http://www.physicsandastronomy.pitt.edu/">Department of Physics and Astronomy</a> of the <a href="http://www.pitt.edu/">University of Pittsburgh</a>. I specialize in Stellar Astrophysics.
 <br><br>
-									
+Before coming to Pittsburgh in 2011, I held postdoctoral positions at the <a href="http://www.astro.tau.ac.il/">Department of Astrophysics</a> of <a href="http://www.telavivuniv.org/">Tel-Aviv University</a> and the <a href="http://www.weizmann.ac.il/home/universe/">Experimental Astrophysics Group</a> of the <a href="http://www.weizmann.ac.il/">Weizmann Institute of Science</a> in Israel; the <a href="http://www.astro.princeton.edu/">Department of Astrophysical Sciences</a> of <a href="http://www.princeton.edu/">Princeton University</a>, and a the <a href="http://www.physics.rutgers.edu/">Department of Physics and Astronomy</a> of <a href="http://www.rutgers.edu/">Rutgers, the State University of New Jersey</a>. 
+<br><br>
+Even before that, I got my PhD in Astrophysics in 2004 from the <a href="http://www.upc.es/">Universitat Polit&egrave;cnica de Catalunya (UPC)</a> and the <a href="http://www.ieec.fcr.es/">Insititut d'Estudis Espacials de Catalunya (IEEC)</a> in Barcelona, Spain. My advisor was Dr. Eduardo Bravo. 
+<br><br>
+You can learn more about my work in the <a href="/research/">Research</a> section.
