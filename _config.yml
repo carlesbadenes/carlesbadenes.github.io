@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carles Badenes / Carles Badenes' Webpage"
+title                    : "Carles Badenes / Webpage"
 title_separator          : "-"
 name                     : &name "Carles Badenes"
 description              : &description "Astrophysicist at the University of Pittsburgh"
