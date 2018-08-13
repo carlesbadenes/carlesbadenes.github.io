@@ -1,14 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am an Assistant Professor at the <a href="http://www.physicsandastronomy.pitt.edu/">Department of Physics and Astronomy</a> of the <a href="http://www.pitt.edu/">University of Pittsburgh</a>. 
+									<br><br>
+									Before coming to Pittsburgh in 2011, I held postdoctoral positions at the <a href="http://www.astro.tau.ac.il/">Department of Astrophysics</a> of <a href="http://www.telavivuniv.org/">Tel-Aviv University</a> and the <a href="http://www.weizmann.ac.il/home/universe/">Experimental Astrophysics Group</a> of the <a href="http://www.weizmann.ac.il/">Weizmann Institute of Science</a> in Israel; the <a href="http://www.astro.princeton.edu/">Department of Astrophysical Sciences</a> of <a href="http://www.princeton.edu/">Princeton University</a>, and a the <a href="http://www.physics.rutgers.edu/">Department of Physics and Astronomy</a> of <a href="http://www.rutgers.edu/">Rutgers, the State University of New Jersey</a>. 
+									<br><br>
+									Even before that, I got my PhD in Astrophysics in 2004 from the <a href="http://www.upc.es/">Universitat Polit&egrave;cnica de Catalunya (UPC)</a> and the <a href="http://www.ieec.fcr.es/">Insititut d'Estudis Espacials de Catalunya (IEEC)</a> in Barcelona, Spain. My advisor was Dr. Eduardo Bravo, from the <a href="http://www-fen.upc.es/gaa">Astronomy and Astrophysics group at the UPC</a>. 
+									<br><br>
+									You can download my cv here, either the <a href="Carles_Badenes_Home_Page_files/Badenes_CV.pdf">condensed version</a> or the <a href="Carles_Badenes_Home_Page_files/Badenes_CV_Full.pdf">full version</a>.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+
 
 A data-driven personal website
 ======
