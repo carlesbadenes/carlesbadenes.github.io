@@ -176,12 +176,16 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+  cv:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
