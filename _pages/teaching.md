@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 Recently Taught Courses
-======
 
 * [ASTRON 0088: From Stonehenge to Hubble](https://www.physicsandastronomy.pitt.edu/content/astron-0088-stonehenge-hubble), Fall 2018.
 
