@@ -7,9 +7,7 @@ redirect_from:
 ---
 A few non-work-related things about myself:
 
-* **Born on the shore of the Mediterranean Sea**. To be specific, in a town called 
-<a href="http://en.wikipedia.org/wiki/Castell%C3%B3n_de_la_Plana">Castell&ograve; de la Plana</a>, although I consider my roots to be 
-in the village of <a href="http://www.atzenetadelmaestrat.es/">Atzeneta del Maestrat</a>, where my father's family comes from. I grew up and went to college in 
+* **Born on the shore of the Mediterranean Sea**. I grew up and went to college in 
 <a href="http://en.wikipedia.org/wiki/Barcelona">Barcelona</a>, which I think is a very beautiful and fascinating city.
 
 * **Compulsive reader** A little bit of everything, including science fiction, fantasy, history and drama. 
