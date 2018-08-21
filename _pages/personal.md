@@ -20,4 +20,4 @@ in the village of <a href="http://www.atzenetadelmaestrat.es/">Atzeneta del Maes
 				
 * **Carlos or Carles?** A lot of people ask me whether my name is Carlos or Carles. The answer is that it is <i>both</i>, it just depends on what language you are using. In Spanish, it is written Carlos and pronounced <b>[karlos]</b> (in the <a href="http://en.wikipedia.org/wiki/SAMPA">SAMPA</a> phonetic alphabet, 
 here is a <a href="http://en.wikipedia.org/wiki/SAMPA_chart">chart</a>). This is the version of my name that appears in my passport and all other official documents. 
-In <a href="http://en.wikipedia.org/wiki/Catalan_language">Catalan</a>, it is written Carles and pronounced <b>[karl@s]. This is how most of my friends call me, and is the form that I use to sign scientific papers. But I answer to both. So now you know.
+In <a href="http://en.wikipedia.org/wiki/Catalan_language">Catalan</a>, it is written Carles and pronounced **[karl@s]**. This is how most of my friends call me, and is the form that I use to sign scientific papers. But I answer to both. So now you know.
