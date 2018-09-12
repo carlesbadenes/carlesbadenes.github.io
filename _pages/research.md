@@ -11,12 +11,6 @@ Here I list some current and past projects, with the most relevant publications 
 
 ----
 
-| AREA | Project | Publications |  
-|-----------|:-----------:|-----------:|  
-| [Stellar Multiplicity<br>with SDSS](#stellar-mult) | White Dwarfs | [Badenes & Maoz 2012](http://adsabs.harvard.edu/abs/2012ApJ...749L..11B)<br>[Maoz et al. 2018](http://adsabs.harvard.edu/abs/2018MNRAS.476.2584M) |
-|            | Main Sequence Stars<br>and Giants | |
-
-----
 
 Stellar Multiplicity with the Sloan Digital Sky Survey  <a id="stellar-mult"></a>
 ====
@@ -28,6 +22,8 @@ The [Sloan Digital Sky Survey](https://www.sdss.org/) has collected millions of 
 - <b>Main sequence stars and Red Giants</b>: Coming soon.
 
 - Follow-up of interesting systems: Coming soon.
+
+----
 
 Supernova Remnants
 ====
