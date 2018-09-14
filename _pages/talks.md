@@ -7,6 +7,6 @@ author_profile: true
 
 # Technical Talks
 
-* [Instituto de Astrofísica de Canarias, 05/03/18](https://www.youtube.com/watch?v=UHYRW30Sdzk): Seminar, stellar multiplicity in APOGEE. [Slides]
-* [Harvard-Smithsonian CfA, 02/19/15](https://www.youtube.com/watch?v=MH0EkOwfFYk&t=22s): Colloquium, Supernova Remnants as constraints on Type Ia Supernova Progenitors. [Slides]  
+* [Instituto de Astrofísica de Canarias, 05/02/18](https://www.youtube.com/watch?v=UHYRW30Sdzk): Seminar, stellar multiplicity in APOGEE. [Slides](/files/IAC_05_18.pdf)
+* [Harvard-Smithsonian CfA, 02/19/15](https://www.youtube.com/watch?v=MH0EkOwfFYk&t=22s): Colloquium, Supernova Remnants as constraints on Type Ia Supernova Progenitors. [Slides](/files/Harvard_02_15_3.pdf)  
 
