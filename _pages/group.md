@@ -26,12 +26,12 @@ Past Group Members
 
 **Postdocs**
 
-* [Brett Andrews](http://www.pitt.edu/~andrewsb/). Now a research assistant professor at Pitt. 
+* [Brett Andrews](http://www.pitt.edu/~andrewsb/). 2014-2017, now a research assistant professor at Pitt. 
 
 **Graduate Students**
 
-* [Sumit Sarbadhicary](https://sks67.github.io/). PhD, 2018 (co-advised with Laura Chomiuk). Now a postdoc at Michigan State University.
-* Thomas Hettinger. PhD, 2015 (MSU, co-advised with Jay Strader). Now working in the private sector.
+* [Sumit Sarbadhicary](https://sks67.github.io/), PhD 2018 (co-advised with Laura Chomiuk). Now a postdoc at Michigan State University.
+* Thomas Hettinger, PhD 2015 (MSU, co-advised with Jay Strader). Now working in the private sector.
 
 Collaborators
 ====
