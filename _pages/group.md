@@ -32,3 +32,14 @@ Past Group Members
 
 * [Sumit Sarbadhicary](https://sks67.github.io/). PhD, 2018 (co-advised with Laura Chomiuk). Now a postdoc at Michigan State University.
 * Thomas Hettinger. PhD, 2015 (MSU, co-advised with Jay Strader). Now working in the private sector.
+
+Collaborators
+====
+
+Some of the amazing people I enjoy working with, with the number of papers we have published together:
+
+* [Eduardo Bravo](http://directori.upc.edu/directori/dadesPersona.jsp?id=1000322), Universitat Politècnica de Catalunya (19).
+* [Laura Chomiuk](https://web.pa.msu.edu/people/chomiuk/index.html), Michigan State University (5).
+* [Jack Hughes](http://www.physics.rutgers.edu/~jackph/), Rutgers University (16).
+* [Dan Maoz](http://www.astro.tau.ac.il/~dani/), Tel-Aviv University (6).
+* [Dan Patnaude](http://hea-www.harvard.edu/~patnaude/), Harvard-Smithsonian Center for Astrophysics (5).
