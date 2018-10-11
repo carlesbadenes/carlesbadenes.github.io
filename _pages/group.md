@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Group Members and Collaborators"
 permalink: /group/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Current Group Members
-====
+===
 
 **Graduate Students**
 
@@ -22,7 +22,7 @@ Current Group Members
 * Mairead Heiger
 
 Past Group Members
-====
+===
 
 **Postdocs**
 
@@ -34,7 +34,7 @@ Past Group Members
 * Thomas Hettinger, PhD 2015 (MSU, co-advised with Jay Strader). Now working in the private sector.
 
 Collaborators
-====
+===
 
 Some of the amazing people I enjoy working with, with the number of papers we have published together:
 
