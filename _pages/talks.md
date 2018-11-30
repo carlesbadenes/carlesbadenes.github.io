@@ -12,4 +12,4 @@ author_profile: true
 
 # Interviews
 
-* [Chandra Blog: Meet an Astronomer](http://chandra.harvard.edu/blog/node/163) 
+* [Chandra Blog - Meet an Astronomer](http://chandra.harvard.edu/blog/node/163): Interview for the 10th anniversary of the launch of Chandra, 2009.  
