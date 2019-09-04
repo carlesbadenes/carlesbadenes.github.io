@@ -30,9 +30,9 @@ Past Group Members
 
 **Graduate Students**
 
-* [Héctor Martínez-Rodríguez](https://github.com/hector-mr), PhD 2019. Now working in the private sector.
+* [Héctor Martínez-Rodríguez](https://github.com/hector-mr), PhD 2019. Héctor's thesis can be found [here](http://d-scholarship.pitt.edu/36555/). Now working in the private sector.
 * [Sumit Sarbadhicary](https://sks67.github.io/), PhD 2018 (co-advised with Laura Chomiuk). Sumit's thesis can be found [here](http://d-scholarship.pitt.edu/35166/). Now a postdoc at Michigan State University.
-* Thomas Hettinger, PhD 2015 (MSU, co-advised with Jay Strader). Tom's thesis can be found [here](https://d.lib.msu.edu/etd/3466/datastream/OBJ/view). Now working in the private sector.
+* Thomas Hettinger, PhD 2015 (Michigan State University, co-advised with Jay Strader). Tom's thesis can be found [here](https://d.lib.msu.edu/etd/3466/datastream/OBJ/view). Now working in the private sector.
 
 Collaborators
 ===
