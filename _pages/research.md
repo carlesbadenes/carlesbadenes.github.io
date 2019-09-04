@@ -40,4 +40,4 @@ Supernova Remnants
 
 Prospective Students
 
-If you are interested in any of these research projects, I would be happy to talk to you. If you want to work with me as a graduate student, keep in mind that first you need to be admitted into our Graduate Program, you can find detailed instructions on how to apply [here](https://www.physicsandastronomy.pitt.edu/graduate/how-apply). 
+If you are interested in any of these research projects, I would be happy to talk to you. If you want to work with me as a graduate student, keep in mind that first you need to be admitted into our Graduate Program. You can find detailed instructions on how to apply [here](https://www.physicsandastronomy.pitt.edu/graduate/how-apply). 
