@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /group/
-title: 
+title: "Group"
 author_profile: true
 redirect_from:
   - /resume
