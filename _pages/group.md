@@ -42,6 +42,7 @@ Some of the amazing people I enjoy working with, with the number of papers we ha
 * [Eduardo Bravo](http://directori.upc.edu/directori/dadesPersona.jsp?id=1000322), Universitat Politècnica de Catalunya (19).
 * [Laura Chomiuk](https://web.pa.msu.edu/people/chomiuk/index.html), Michigan State University (5).
 * [Jack Hughes](http://www.physics.rutgers.edu/~jackph/), Rutgers University (16).
+* [Shiu-Hang (Herman) Lee](http://www.kusastro.kyoto-u.ac.jp/~herman/Home.html), University of Kyoto (3).
 * [Dan Maoz](http://www.astro.tau.ac.il/~dani/), Tel-Aviv University (6).
 * [Dan Patnaude](http://hea-www.harvard.edu/~patnaude/), Harvard-Smithsonian Center for Astrophysics (5).
 * [Tony Piro](http://users.obs.carnegiescience.edu/piro/), Carnegie Observatories (5).
