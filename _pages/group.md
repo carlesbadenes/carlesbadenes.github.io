@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /group/
+title: 
 author_profile: true
 redirect_from:
   - /resume
