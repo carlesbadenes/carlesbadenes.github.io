@@ -24,7 +24,7 @@ The [Sloan Digital Sky Survey](https://www.sdss.org/) has collected millions of 
 
 - <b>Follow-up of interesting systems</b>: Coming soon.
 
-<span style="color:blue"><b>NEWS:</b></span> I am proud to announce that I have become an Associate Member of the fifth installment of SDSS, [SDSS-V](https://www.sdss.org/future/), scheduled to begin operations in 2020. This continues the historical involvement of Pitt in SDSS, which started back in 2008. SDSS-V will revolutionize our knowledge of the stellar content of the Milky Way, so stay tuned for developments!
+<span style="color:blue"><b>NEWS:</b></span> I am proud to announce that I have become an Associate Member of the fifth installment of SDSS, [SDSS-V](https://www.sdss.org/future/), scheduled to begin operations in 2020. This continues the historical involvement of Pitt in SDSS, which started back in 2003. SDSS-V will revolutionize our knowledge of the stellar content of the Milky Way, so stay tuned for developments!
 
 ----
 
