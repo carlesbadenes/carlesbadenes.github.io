@@ -36,7 +36,7 @@ Supernova Remnants
 
 - <b>Neutronization in Type Ia SNRs</b>:
 
-- <b>SNR Populations in the Local Group<\b>:
+- <b>SNR Populations in the Local Group</b>:
 
 ----
 
