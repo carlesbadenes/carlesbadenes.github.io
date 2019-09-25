@@ -31,7 +31,7 @@ The [Sloan Digital Sky Survey](https://www.sdss.org/) has collected millions of 
 Supernova Remnants
 ====
 
-![Tycho SNR (Chandra)]("tycho.jpg") [Supernova Remnants](https://en.wikipedia.org/wiki/Supernova_remnant) are the end products of Supernova explosions. Observations of SNRs in the Local Group offer a unique view of Supernovae, complementary to optical studies of distant objects.
+![Tycho SNR (Chandra)]("images/tycho.jpg") [Supernova Remnants](https://en.wikipedia.org/wiki/Supernova_remnant) are the end products of Supernova explosions. Observations of SNRs in the Local Group offer a unique view of Supernovae, complementary to optical studies of distant objects.
 
 - <b>Models for the X-ray Spectra of Type Ia SNRs</b>: Back in 2004, I wrote a PhD thesis on this topic, which you can download [here](/files/Badenes_PhDThesis_2004.pdf) (though most of it is now outdated). In a nutshell, the X-ray spectra of Type Ia SNRs contain a lot of information about the physics of the explosion and the structure of the medium surrounding the progenitor, which are in turn crucial to understand the nature of SN Ia progenitors (see [Badenes 2010](https://ui.adsabs.harvard.edu/abs/2010PNAS..107.7141B) for a short review on this topic). 
 
