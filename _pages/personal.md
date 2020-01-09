@@ -14,7 +14,7 @@ A few non-work-related things about myself:
 						
 * **Avid music listener**. Also a little bit of everything, with emphasis on rock, blues, good pop, alt-country and celtic music.
 
-* **I like some movies a lot**. Most of my favorite movies are classics, like 'The Quiet Man' or 'All About Eve'. Incidentally, I share a birthday with the (IMHO) greatest film director of all time: Mr <a href="http://en.wikipedia.org/wiki/John_Ford">John Ford</a>.
+* **I like some movies a lot**. Most of my favorite movies are classics, like 'The Quiet Man' or 'All About Eve'. 
 				
 * **Carlos or Carles?** A lot of people ask me whether my name is Carlos or Carles. The answer is that it is <i>both</i>, it just depends on what language you are using. In Spanish, it is written Carlos and pronounced <b>[karlos]</b> (in the <a href="http://en.wikipedia.org/wiki/SAMPA">SAMPA</a> phonetic alphabet, 
 here is a <a href="http://en.wikipedia.org/wiki/SAMPA_chart">chart</a>). This is the version of my name that appears in my passport and all other official documents. 
