@@ -14,11 +14,12 @@ Current Group Members
 
 * [Christine Mazzola](https://www.physicsandastronomy.pitt.edu/people/christine-mazzola)
 * [Juntong Su](https://www.physicsandastronomy.pitt.edu/people/juntong-su)
+* Travis Court
+* Tori Bonidie
 
 **Undergraduate Students**
 
 * Mairead Heiger 
-* Tori Bonidie (Franklin and Marshall College)
 * Polina Petrov (Carnegie-Mellon University)
 
 Past Group Members
