@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /group/
 title: "Group"
 author_profile: true
