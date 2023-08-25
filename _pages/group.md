@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /group/
 title: "Group"
 author_profile: true
