@@ -38,7 +38,7 @@ Past Group Members
 **Undergraduate Students**
 
 * Mairead Heiger (now a graduate student at the University of Toronto)
-* Polina Petrov (Carnegie-Mellon University)
+* Polina Petrov (Carnegie-Mellon University undergrad, now a graduate student at Vanderbilt University)
 
 Collaborators
 ===
