@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my web page! I am an Associate Professor at the <a href="http://www.physicsandastronomy.pitt.edu/">Department of Physics and Astronomy</a> of the <a href="http://www.pitt.edu/">University of Pittsburgh</a>. 
+Welcome to my web page! I am a Professor at the <a href="http://www.physicsandastronomy.pitt.edu/">Department of Physics and Astronomy</a> of the <a href="http://www.pitt.edu/">University of Pittsburgh</a>. 
 <br><br>
 I specialize in Stellar Astrophysics. My research interests include <a href="https://en.wikipedia.org/wiki/Supernova">supernovae</a>, <a href="https://en.wikipedia.org/wiki/Supernova_remnant">supernova remnants</a>, <a href="https://en.wikipedia.org/wiki/Stellar_evolution">stellar evolution</a>, <a href="https://en.wikipedia.org/wiki/Binary_star">stellar multiplicity</a>, and <a href="https://en.wikipedia.org/wiki/Data_science">data science</a>. I am particularly intrigued by the progenitor systems of <a href="https://en.wikipedia.org/wiki/Type_Ia_supernova">Type Ia supernovae</a>. 
 You can learn more about my work in the <a href="/research/">Research</a> section, and find all the excruciating details in the <a href="/publications/">Publications</a> section.
