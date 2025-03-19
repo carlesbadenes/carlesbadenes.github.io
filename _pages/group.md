@@ -50,6 +50,7 @@ Collaborators
 
 Some of the amazing people I enjoy working with, with the number of papers we have published together:
 
+* [Katie Auchettl](https://www.auchettl.com/), University of Melbourne (3).
 * [Eduardo Bravo](http://directori.upc.edu/directori/dadesPersona.jsp?id=1000322), Universitat Politècnica de Catalunya (21).
 * [Katie Breivik](https://katiebreivik.github.io/), Carnegie Mellon University (1).
 * [Laura Chomiuk](https://web.pa.msu.edu/people/chomiuk/index.html), Michigan State University (9).
@@ -59,5 +60,5 @@ Some of the amazing people I enjoy working with, with the number of papers we ha
 * [Dan Maoz](http://www.astro.tau.ac.il/~dani/), Tel-Aviv University (10).
 * [Dan Patnaude](http://hea-www.harvard.edu/~patnaude/), Harvard-Smithsonian Center for Astrophysics (11).
 * [Tony Piro](http://users.obs.carnegiescience.edu/piro/), Carnegie Observatories (5).
-* [Matt Walker](), Carnegie-Mellon University (5).
+* [Matt Walker](), Carnegie Mellon University (5).
 * [Hiroya Yamaguchi](https://asd.gsfc.nasa.gov/Hiroya.Yamaguchi/), ISAS-JAXA (7).
