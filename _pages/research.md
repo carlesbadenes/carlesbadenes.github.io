@@ -21,7 +21,7 @@ The [Sloan Digital Sky Survey](https://www.sdss.org/) has collected millions of 
 <table>
   <tr>
     <td style="width:30%;">
-      <img src="your-image-url-here" alt="Image Description" width="100%" />
+      <img src="your-image-url-here" alt="Plot from Maoz et al. (2018)" width="100%" />
     </td>
     <td style="width:70%;">
       ### Your Title Here
