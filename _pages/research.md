@@ -18,7 +18,7 @@ Stellar Multiplicity with the Sloan Digital Sky Survey  <a id="stellar-mult"></a
 
 The [Sloan Digital Sky Survey](https://www.sdss.org/) has collected millions of spectra of individual objects, from quasars to galaxies and stars. Most of these spectra have multiple visits, and it is possible to study them to look for variations in radial velocity (RV) due to the presence of an unseen binary companion. I have been involved in several efforts to use these data to improve our knowledge of stellar multiplicity. 
 
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="width:35%;">
       <img src="/images/Maoz18WDMergerRate.png" alt="Plot from Maoz et al. (2018)" width="100%" />
