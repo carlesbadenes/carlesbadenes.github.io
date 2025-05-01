@@ -16,6 +16,31 @@ Here I list some current and past projects, with the most relevant publications 
 Stellar Multiplicity with the Sloan Digital Sky Survey  <a id="stellar-mult"></a>
 ====
 
+The [Sloan Digital Sky Survey](https://www.sdss.org/) has collected millions of spectra of individual objects, from quasars to galaxies and stars. Most of these spectra have multiple visits, and it is possible to study them to look for variations in radial velocity (RV) due to the presence of an unseen binary companion. I have been involved in several efforts to use these data to improve our knowledge of stellar multiplicity. 
+
+<table>
+  <tr>
+    <td style="width:30%;">
+      <img src="your-image-url-here" alt="Image Description" width="100%" />
+    </td>
+    <td style="width:70%;">
+      ### Your Title Here
+      A brief description or text with a [link](http://example.com).
+    </td>
+  </tr>
+  <tr>
+    <td style="width:30%;">
+      <img src="your-second-image-url-here" alt="Second Image Description" width="100%" />
+    </td>
+    <td style="width:70%;">
+      ### Second Title Here
+      Another description or text with a [second link](http://example.com).
+    </td>
+  </tr>
+</table>
+
+
+
 | ----------------------------- |:---------------------:| 
 |   |  <b>White Dwarfs</b>: These degenerate stars are very dense and small - a typical white dwarf is roughly the size of planet Earth. As a consequence, they can be in binary systems with very short periods, sometimes only a few minutes. These short period binary white dwarfs are very interesting because they can be the progenitors of Type Ia supernovae. In 2009, we used time-domain SDSS spectra to discover some of these systems ([Badenes et al. 2009b](https://ui.adsabs.harvard.edu/abs/2009ApJ...707..971B), [Mullally et al. 2009](https://ui.adsabs.harvard.edu/abs/2009ApJ...707L..51M)). In 2012, we took these studies one step further, using the statistical properties of thousands of individual radial velocities measured by SDSS ([Maoz et al. 2012](https://ui.adsabs.harvard.edu/abs/2012ApJ...751..143M)) to constrain the merger rate of binary white dwarfs in the Milky Way ([Badenes & Maoz 2012](https://ui.adsabs.harvard.edu/abs/2012ApJ...749L..11B), see the [NSF Press Release](https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=123450)). We have recently revised this measurement with new data, concluding that binary white dwarfs merge at a very high rate ([Maoz et al. 2018](https://ui.adsabs.harvard.edu/abs/2018MNRAS.476.2584M)) |
 
