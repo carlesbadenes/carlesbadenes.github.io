@@ -12,6 +12,7 @@ author_profile: true
 
 # Video Interviews
 
+* [This Week in Space Podcast](https://www.youtube.com/watch?v=58YW0tRpARE): Interview about the impending explosion of the recurrent nova T Corona Borealis, 2024. Check out the [This Week in Space Website](https://twit.tv/shows/this-week-in-space)! 
 * [Chandra Blog - Meet an Astronomer](http://chandra.harvard.edu/blog/node/163): Interview for the 10th anniversary of the launch of Chandra, 2009.  
 
 # In the Press
