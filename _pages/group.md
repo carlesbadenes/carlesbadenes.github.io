@@ -32,7 +32,7 @@ Past Group Members
 
 **Graduate Students**
 
-*  [Travis Court](https://courtt.github.io/), PhD 2025. Travis' thesis can be found [here][https://pitt.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/modeling-x-ray-emission-type-ia-supernova/docview/3291096769/se-2?accountid=14709]. Now a Lecturer in Physics at the University of North Carolina, Asheville. 
+*  [Travis Court](https://courtt.github.io/), PhD 2025. Travis' thesis can be found [here](https://pitt.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/modeling-x-ray-emission-type-ia-supernova/docview/3291096769/se-2?accountid=14709). Now a Lecturer in Physics at the University of North Carolina, Asheville. 
 *  [Christine Mazzola Daher](https://cmazzdaher.github.io/), PhD 2022. Christine's thesis can be found [here](https://d-scholarship.pitt.edu/43168/). After becoming CCAPP Fellow at The Ohio State University, Christine moved to the public sector.
 * [Héctor Martínez-Rodríguez](https://github.com/hector-mr), PhD 2019. Héctor's thesis can be found [here](http://d-scholarship.pitt.edu/36555/). Now working in the private sector.
 * [Sumit Sarbadhicary](https://sks67.github.io/), PhD 2018 (co-advised with Laura Chomiuk). Sumit's thesis can be found [here](http://d-scholarship.pitt.edu/35166/). Now an Assistant Research Scientist at Johns Hopkins University.
@@ -42,7 +42,7 @@ Past Group Members
 
 * Peri Schindelheim, now a graduate student at Columbia University.
 * [Jakob Bindas](https://jakobbindas.github.io/)  
-* [Mairead Heiger][https://www.dunlap.utoronto.ca/directory/mairead-heiger/], now a graduate student at the University of Toronto.
+* [Mairead Heiger](https://www.dunlap.utoronto.ca/directory/mairead-heiger/), now a graduate student at the University of Toronto.
 * Polina Petrov (Carnegie-Mellon University undergrad), now a graduate student at Vanderbilt University.
 
 Collaborators
