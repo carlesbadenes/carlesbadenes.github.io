@@ -11,8 +11,10 @@ Recently Taught Courses
 
 * ASTRON 0113/0413: Introduction to Astronomy, Spring 2017. An introduction to astronomy for Science majors.
 
-* ASTRON 1120: Stellar Astrophysics, Spring 2023. Advanced undergraduate course on stellar astrophysics.
+* ASTRON 1120: Stellar Astrophysics, Spring 2026. Advanced undergraduate course on stellar astrophysics.
+
+* ASTRON 1121: Galaxies and Cosmology, Fall 2025. Advanced undergraduate course on galactic astronomy and cosmology.
 
 * ASTRON 1122: Solar System and Exoplanets, Spring 2019. Advanced undergraduate course on planetary science.
 
-* ASTRON 3550: Stellar Structure, Spring 2022. Graduate course on stellar structure and evolution.
+* ASTRON 3550: Stellar Structure, Fall 2026. Graduate course on stellar structure and evolution.
