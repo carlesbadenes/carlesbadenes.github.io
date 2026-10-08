@@ -16,12 +16,13 @@ Current Group Members
 
 **Graduate Students**
 
-* [Tori Bonidie](https://toribonidie.github.io/)
+* [Mark Martinez](https://github.com/MarkGM02)
 * [Cullen Abelson](https://www.physicsandastronomy.pitt.edu/people/cullen-abelson)
 
 **Undergraduate Students**
 
 * Melanie Torres.
+* Jace Martin.
 
 Past Group Members
 ===
@@ -32,6 +33,7 @@ Past Group Members
 
 **Graduate Students**
 
+*  [Tori Bonidie](https://toribonidie.github.io/), PhD 2026. Now a lecturer at Cal Poly San Luis Obispo.
 *  [Travis Court](https://courtt.github.io/), PhD 2025. Travis' thesis can be found [here](https://pitt.idm.oclc.org/login?url=https://www.proquest.com/dissertations-theses/modeling-x-ray-emission-type-ia-supernova/docview/3291096769/se-2?accountid=14709). Now a Lecturer in Physics at the University of North Carolina, Asheville. 
 *  [Christine Mazzola Daher](https://cmazzdaher.github.io/), PhD 2022. Christine's thesis can be found [here](https://d-scholarship.pitt.edu/43168/). After a stint as CCAPP Fellow at The Ohio State University, Christine moved to the public sector.
 * [Héctor Martínez-Rodríguez](https://github.com/hector-mr), PhD 2019. Héctor's thesis can be found [here](http://d-scholarship.pitt.edu/36555/). Now working in the private sector.
