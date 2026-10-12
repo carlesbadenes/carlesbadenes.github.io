@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-**Jobs**
-
 Do you want to join my group? I am hiring a Samuel P. Langley postdoctoral fellow starting Fall of 2027: [Job Ad](https://academicjobsonline.org/ajo/jobs/33039)
 
 Current Group Members
