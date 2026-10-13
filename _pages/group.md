@@ -46,19 +46,19 @@ Past Group Members
 
 * Peri Schindelheim, now a graduate student at Columbia University.
 * [Jakob Bindas](https://jakobbindas.github.io/)  
-* [Mairead Heiger](https://www.dunlap.utoronto.ca/directory/mairead-heiger/), now a graduate student at the University of Toronto.
-* Polina Petrov (Carnegie-Mellon University undergrad), now a graduate student at Vanderbilt University.
+* [Mairead Heiger](https://astronomy.as.virginia.edu/mairead-heiger), PhD 2026, University of Toronto, now GECO and CosmicAI Postdoctoral Fellow at the University of Virginia.
+* [Polina Petrov](https://polinapetrov.github.io/) (Carnegie-Mellon University undergrad), PhD 2026, Vanderbilt University, now a postdoc at IA-FORTH in Greece.
 
 Collaborators
 ===
 
 Some of the amazing people I enjoy working with, with the number of papers we have published together:
 
-* [Katie Auchettl](https://www.auchettl.com/), University of Melbourne (9).
+* [Katie Auchettl](https://www.auchettl.com/), University of Melbourne (11).
 * [Eduardo Bravo](http://directori.upc.edu/directori/dadesPersona.jsp?id=1000322), Universitat Politècnica de Catalunya (22).
 * [Katie Breivik](https://katiebreivik.github.io/), Carnegie Mellon University (2).
 * [Laura Chomiuk](https://web.pa.msu.edu/people/chomiuk/index.html), Michigan State University (9).
-* [Lluis Galbany](https://lgalbany.github.io/), IEEC/ICE, Barcelona (15).
+* [Lluis Galbany](https://lgalbany.github.io/), IEEC/ICE, Barcelona (16).
 * [Jack Hughes](http://www.physics.rutgers.edu/~jackph/), Rutgers University (21).
 * [Shiu-Hang (Herman) Lee](http://www.kusastro.kyoto-u.ac.jp/~herman/Home.html), University of Kyoto (16).
 * [Dan Maoz](http://www.astro.tau.ac.il/~dani/), Tel-Aviv University (12).
